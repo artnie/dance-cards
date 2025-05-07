@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 #PATCH = "% CONTENT HERE"
 
-BASE_TEX_FILE = "./cards.tex"
+BASE_TEX_FILE = "./westball2025_en.tex"
 
 TEMP_DIR = "./split/"
 
